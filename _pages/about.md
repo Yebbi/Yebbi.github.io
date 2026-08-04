@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Hedrick Assistant Adjunct Professorship,<br>
+  Department of Mathematics,<br>
+  UCLA
 
 profile:
   align: right
