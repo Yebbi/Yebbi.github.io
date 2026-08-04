@@ -10,7 +10,7 @@ subtitle: >
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: pic.JPEG
   image_circular: false
   more_info:
 
