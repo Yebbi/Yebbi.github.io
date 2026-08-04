@@ -15,7 +15,6 @@ profile:
   more_info:
 
 selected_papers: true
-social: true
 
 announcements:
   enabled: true
