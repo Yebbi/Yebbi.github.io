@@ -8,8 +8,26 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### University of California, Los Angeles
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Fall 2025, Spring 2026**  
+**Programming in Computing 10A: Introduction to Programming**  
+Course Instructor
 
-{% include courses.liquid %}
+
+### Seoul National University
+
+**Winter 2023**  
+**Introduction to Numerical Analysis**  
+Department of Mathematical Sciences  
+Course Coordinator
+
+**Spring 2022 – Spring 2023**  
+**Honor Calculus Practice**  
+Department of Mathematical Sciences  
+Teaching Assistant
+
+**Spring 2020 – Winter 2021**  
+**Calculus Practice**  
+Department of Mathematical Sciences  
+Teaching Assistant
