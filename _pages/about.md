@@ -41,6 +41,10 @@ Scientific Machine Learning · Numerical Analysis
 <i class="ai ai-google-scholar" style="font-size:64px !important;"></i>
 </a>
 
+<a href="mailto:your_email@ucla.edu">
+<i class="fas fa-envelope" style="font-size:64px !important;"></i>
+</a>
+
 <a href="https://github.com/Yebbi" target="_blank">
 <i class="fab fa-github" style="font-size:64px !important;"></i>
 </a>
