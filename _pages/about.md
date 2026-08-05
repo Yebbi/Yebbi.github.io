@@ -24,6 +24,11 @@ latest_posts:
 <strong>Hedrick Assistant Adjunct Professor</strong><br>
 <strong>Department of Mathematics, UCLA</strong><br>
 
+<strong>Research Interests:</strong><br>
+Scientific Machine Learning · Numerical Analysis
+
+<br><br>
+
 <div style="display:flex; gap:25px; align-items:center;">
 
 <a href="/assets/pdf/CV.pdf" target="_blank">
