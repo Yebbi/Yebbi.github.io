@@ -21,30 +21,24 @@ latest_posts:
   enabled: false
 ---
 
-Hedrick Assistant Adjunct Professor
+<strong>Hedrick Assistant Adjunct Professor</strong><br>
+<strong>Department of Mathematics, UCLA</strong><br>
 
-Department of Mathematics
-
-UCLA
-
-<br>
+<div style="display:flex; gap:25px; align-items:center;">
 
 <a href="/assets/pdf/CV.pdf" target="_blank">
-<i class="ai ai-cv ai-2x"></i>
+<i class="ai ai-cv" style="font-size:2.5rem;"></i>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
-<i class="ai ai-google-scholar ai-2x"></i>
+<i class="ai ai-google-scholar" style="font-size:2.5rem;"></i>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/Yebbi" target="_blank">
-<i class="fab fa-github fa-2x"></i>
+<i class="fab fa-github" style="font-size:2.5rem;"></i>
 </a>
 
+</div>
 
 <br><br>
 
