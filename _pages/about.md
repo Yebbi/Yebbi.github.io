@@ -13,7 +13,8 @@ profile:
   image: pic.JPEG
   image_circular: false
   more_info:
-
+  
+social: true
 selected_papers: true
 
 announcements:
