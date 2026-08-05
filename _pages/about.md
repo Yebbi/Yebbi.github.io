@@ -11,7 +11,7 @@ profile:
   image_circular: false
   more_info:
 
-social: true
+social: false
 selected_papers: true
 
 announcements:
