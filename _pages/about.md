@@ -13,7 +13,7 @@ profile:
   image: pic.JPEG
   image_circular: false
   more_info:
-  
+
 social: true
 selected_papers: true
 
@@ -23,7 +23,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
 
 I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I work with Stanley Osher.
 
