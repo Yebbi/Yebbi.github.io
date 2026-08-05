@@ -35,7 +35,7 @@ My research is driven by the interplay between differential equations, machine l
 
 Rather than focusing solely on incremental algorithmic improvements, I aim to rethink computational problems from first principles: identifying appropriate mathematical representations, uncovering hidden structures, establishing connections across seemingly distinct fields, and developing principled computational frameworks based on these insights.
 
-This perspective guides my research across both theoretical and applied areas, including scientific machine learning, neural representations, generative modeling, optimal transport, convergence analysis and preconditioner analysis.
+This perspective guides my research across both theoretical and applied areas, including scientific machine learning, neural representations, generative modeling, optimal transport, 3D computer vision, convergence analysis and preconditioner analysis.
 
 
 I received my Ph.D. in Mathematics from Seoul National University, advised by Myungjoo Kang.
