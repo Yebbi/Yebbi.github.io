@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Yebbi.github.io/sitemap.xml
+Sitemap: https://yesompark.com/sitemap.xml
