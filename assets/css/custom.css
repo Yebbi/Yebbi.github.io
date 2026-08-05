@@ -2,3 +2,11 @@
   width: 180px !important;
   height: auto !important;
 }
+
+.profile a i {
+  color: #222;
+}
+
+.profile a:hover i {
+  color: #000;
+}
