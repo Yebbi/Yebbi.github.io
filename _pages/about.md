@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 
 subtitle:
 
 profile:
-  align: left
+  align: right
   image: pic.JPEG
   image_circular: false
   more_info:
@@ -21,6 +21,8 @@ latest_posts:
   enabled: false
 ---
 
+<h1>Yesom Park</h1>
+ 
 <strong>Hedrick Assistant Adjunct Professor</strong><br>
 <strong>Department of Mathematics, UCLA</strong><br>
 
@@ -32,7 +34,7 @@ Scientific Machine Learning · Numerical Analysis
 <div style="display:flex; gap:25px; align-items:center;">
 
 <a href="/assets/pdf/CV.pdf" target="_blank">
-<i class="ai ai-cv" style="font-size:2.5rem;"></i>
+<i class="ai ai-cv" style="font-size:48px;"></i>
 </a>
 
 <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
