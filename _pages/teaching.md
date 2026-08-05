@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching experience and courses taught.
 nav: true
 nav_order: 6
-calendar: false
 ---
 
 ### University of California, Los Angeles
@@ -14,20 +13,18 @@ calendar: false
 **Programming in Computing 10A: Introduction to Programming**  
 Instructor
 
-
 ### Seoul National University
+
+Department of Mathematical Sciences
 
 **Winter 2023**  
 **Introduction to Numerical Analysis**  
-Department of Mathematical Sciences  
 Course Coordinator
 
 **Spring 2022 – Spring 2023**  
 **Honor Calculus Practice**  
-Department of Mathematical Sciences  
 Teaching Assistant
 
 **Spring 2020 – Winter 2021**  
 **Calculus Practice**  
-Department of Mathematical Sciences  
 Teaching Assistant
