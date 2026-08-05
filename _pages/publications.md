@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Research publications in machine learning, numerical analysis, and computational mathematics.
 nav: true
 nav_order: 2
