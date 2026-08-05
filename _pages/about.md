@@ -34,15 +34,15 @@ Scientific Machine Learning · Numerical Analysis
 <div style="display:flex; gap:25px; align-items:center;">
 
 <a href="/assets/pdf/CV.pdf" target="_blank">
-<i class="ai ai-cv" style="font-size:48px;"></i>
+<i class="ai ai-cv" style="font-size:64px !important;"></i>
 </a>
 
 <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
-<i class="ai ai-google-scholar" style="font-size:2.5rem;"></i>
+<i class="ai ai-google-scholar" style="font-size:64px !important;"></i>
 </a>
 
 <a href="https://github.com/Yebbi" target="_blank">
-<i class="fab fa-github" style="font-size:2.5rem;"></i>
+<i class="fab fa-github" style="font-size:64px !important;"></i>
 </a>
 
 </div>
