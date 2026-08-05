@@ -2,17 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience and courses taught.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
 ### University of California, Los Angeles
 
 **Fall 2025, Spring 2026**  
 **Programming in Computing 10A: Introduction to Programming**  
-Course Instructor
+Instructor
 
 
 ### Seoul National University
