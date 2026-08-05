@@ -22,7 +22,9 @@ latest_posts:
 ---
 
 <h1>Yesom Park</h1>
- 
+
+<br><br>
+
 <strong>Hedrick Assistant Adjunct Professor</strong><br>
 <strong>Department of Mathematics, UCLA</strong><br>
 
