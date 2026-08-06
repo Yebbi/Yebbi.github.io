@@ -55,10 +55,10 @@ Scientific Machine Learning · Numerical Analysis
 
 <br><br>
 
-I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I work with Stanley Osher.
+I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I work with <a href="https://www.math.ucla.edu/~sjo/" target="_blank">Stanley Osher</a>.
 
 My research explores the <strong>mathematical foundations of modern computation</strong> at the intersection of differential equations, machine learning, and numerical analysis. Rather than pursuing incremental algorithmic improvements, I seek mathematical principles that lead to computational methods that are not only faster or more accurate, but <strong>fundamentally better formulated</strong>. I rethink computational problems from <strong>first principles</strong> by identifying appropriate mathematical representations, uncovering hidden structures, and establishing connections across seemingly distinct fields.
 
 This perspective shapes my research in scientific machine learning, neural representations, generative modeling, optimal transport, 3D computer vision, and convergence and preconditioning analysis.
 
-I received my Ph.D. in Mathematics from Seoul National University, advised by Myungjoo Kang.
+I received my Ph.D. in Mathematics from Seoul National University, advised by <a href="https://ncia.snu.ac.kr" target="_blank">Myungjoo Kang</a>.
