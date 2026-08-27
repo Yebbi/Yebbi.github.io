@@ -55,7 +55,7 @@ Scientific Machine Learning · Numerical Analysis
 
 <br><br>
 
-I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I work with <a href="https://www.math.ucla.edu/~sjo/" target="_blank">Stanley Osher</a>.
+I am a Hedrick Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I work with <a href="https://www.math.ucla.edu/~sjo/" target="_blank">Stanley Osher</a> and <a href="https://sites.google.com/view/haydenschaeffer/" target="_blank">Hayden Schaeffer</a>.
 
 My research explores the <strong>mathematical foundations of modern computation</strong> at the intersection of differential equations, machine learning, and numerical analysis. Rather than pursuing incremental algorithmic improvements, I seek mathematical principles that lead to computational methods that are not only faster or more accurate, but <strong>fundamentally better formulated</strong>. I rethink computational problems from <strong>first principles</strong> by identifying appropriate mathematical representations, uncovering hidden structures, and establishing connections across seemingly distinct fields.
 
